@@ -155,6 +155,23 @@
     ]
   },
   {
+    "id": "zalndemeter.circular-gauge",
+    "name": "Circular Gauge Panel",
+    "description": "A highly customizable circular gauge",
+    "publisher": "zalandemeter12",
+    "homepage": "https://github.com/zalandemeter12/foxglove-extension-pack/tree/main/src/circular-gauge",
+    "readme": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/circular-gauge/README.md",
+    "changelog": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/circular-gauge/CHANGELOG.md",
+    "license": "MIT",
+    "version": "1.0.0",
+    "sha256sum": "28286c9ead4ac37f908c602846633a4a8dbaa412aaaff176fd6dff662c4d373f",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/zalndemeter.circular-gauge-1.0.0.foxe",
+    "keywords": [
+      "gauge",
+      "panel"
+    ]
+  },
+  {
     "id": "missionrobotics.h264-panel",
     "name": "H.264 Video Panel",
     "description": "Experimental H264 playback",
