@@ -172,6 +172,23 @@
     ]
   },
   {
+    "id": "zalndemeter.gg-display",
+    "name": "GG Display Panel",
+    "description": "A GG Display for motor sport applications",
+    "publisher": "zalandemeter12",
+    "homepage": "https://github.com/zalandemeter12/foxglove-extension-pack/tree/main/src/gg-display",
+    "readme": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/gg-display/README.md",
+    "changelog": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/gg-display/CHANGELOG.md",
+    "license": "MIT",
+    "version": "1.0.0",
+    "sha256sum": "f779d63a744e999a82eb799aa817bfe2d2127cb79f361f385e491f4eb5684658",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/zalndemeter.gg-display-1.0.0.foxe",
+    "keywords": [
+      "gg",
+      "panel"
+    ]
+  },
+  {
     "id": "missionrobotics.h264-panel",
     "name": "H.264 Video Panel",
     "description": "Experimental H264 playback",
@@ -443,6 +460,23 @@
     "keywords": [
       "ros",
       "teleop"
+    ]
+  },
+  {
+    "id": "zalndemeter.value-display",
+    "name": "Value Display Panel",
+    "description": "A better way to display values",
+    "publisher": "zalandemeter12",
+    "homepage": "https://github.com/zalandemeter12/foxglove-extension-pack/tree/main/src/value-display",
+    "readme": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/value-display/README.md",
+    "changelog": "https://raw.githubusercontent.com/zalandemeter12/foxglove-extension-pack/refs/heads/main/src/value-display/CHANGELOG.md",
+    "license": "MIT",
+    "version": "1.0.0",
+    "sha256sum": "1f16bda4230e397d410960bc6de5670d7702aa09f75ce22102ae9b391fd50dd6",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/zalndemeter.value-display-1.0.0.foxe",
+    "keywords": [
+      "value",
+      "panel"
     ]
   },
   {
