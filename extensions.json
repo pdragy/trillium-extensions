@@ -172,6 +172,23 @@
     ]
   },
   {
+    "id": "cognipilot.cognipilot-joystick",
+    "name": "Cognipilot Joystick Panel",
+    "description": "Cognipilot joystick panel",
+    "publisher": "CogniPilot",
+    "homepage": "https://github.com/CogniPilot/foxglove-cognipilot-joy",
+    "readme": "https://raw.githubusercontent.com/CogniPilot/foxglove-cognipilot-joy/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/CogniPilot/foxglove-cognipilot-joy/refs/heads/main/CHANGELOG.md",
+    "license": "Apache 2.0",
+    "version": "0.0.1",
+    "sha256sum": "20b12c657032421d5ea68eef7830e6eba465890c0e5c026be5b32806a75bca9e",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/cognipilot.cognipilot-joystick-0.0.1.foxe",
+    "keywords": [
+      "teleop",
+      "joystick"
+    ]
+  },
+  {
     "id": "zalndemeter.gg-display",
     "name": "GG Display Panel",
     "description": "A GG Display for motor sport applications",
