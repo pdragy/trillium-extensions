@@ -336,6 +336,24 @@
     ]
   },
   {
+    "id": "gregsmith.foxglove-navball",
+    "name": "Navball Panel",
+    "description": "An attitude indicator panel extension.",
+    "publisher": "gasmith",
+    "homepage": "https://github.com/gasmith/foxglove-navball",
+    "readme": "https://raw.githubusercontent.com/gasmith/foxglove-navball/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/gasmith/foxglove-navball/refs/heads/main/CHANGELOG.md",
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "sha256sum": "0fd77b82b891f911f0700db618e2c36bf29b9a37e423f37c49c71ee7cb11be11",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/gregsmith.foxglove-navball-0.0.1.foxe",
+    "keywords": [
+      "attitude",
+      "navball",
+      "flight"
+    ]
+  },
+  {
     "id": "metaverseindustriesllc.plotly",
     "name": "Plotly Panel",
     "description": "Render plotly.Plot JSON messages",
