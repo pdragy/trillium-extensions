@@ -516,6 +516,26 @@
     ]
   },
   {
+    "id": "foxglove.studio-extension-turtlesim",
+    "name": "Turtlesim",
+    "description": "Interact with the ROS turtlesim node",
+    "publisher": "foxglove",
+    "homepage": "https://github.com/foxglove/studio-extension-turtlesim",
+    "readme": "https://raw.githubusercontent.com/foxglove/studio-extension-turtlesim/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/foxglove/studio-extension-turtlesim/main/CHANGELOG.md",
+    "license": "MPL-2.0",
+    "version": "0.0.1",
+    "sha256sum": "6fb9647d5e202f2e030cd16a36706a43481d5065a54669967db68690e2199338",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/foxglove.studio-extension-turtlesim-0.0.1.foxe",
+    "keywords": [
+      "ros",
+      "simulator",
+      "turtle",
+      "turtlesim",
+      "tutorial"
+    ]
+  },
+  {
     "id": "zalndemeter.value-display",
     "name": "Value Display Panel",
     "description": "A better way to display values",
