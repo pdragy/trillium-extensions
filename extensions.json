@@ -372,6 +372,24 @@
     ]
   },
   {
+    "id": "robotxworkshops.foxglove-edit-params",
+    "name": "Parameter Editor Panel",
+    "description": "Adds panel for viewing and modifying parameters.",
+    "publisher": "RobotX Workshops",
+    "homepage": "https://github.com/RobotX-Workshops/foxglove-params",
+    "readme": "https://raw.githubusercontent.com/RobotX-Workshops/foxglove-params/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/RobotX-Workshops/foxglove-params/refs/heads/main/CHANGELOG.md",
+    "license": "UNLICENSED",
+    "version": "1.0.0",
+    "sha256sum": "612681914fc2a303d23b4d2ace73236a5df73fe8cb33259426e0100545263f4f",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/robotxworkshops.foxglove-edit-params-1.0.0.foxe",
+    "keywords": [
+      "editor",
+      "parameter",
+      "ros"
+    ]
+  },
+  {
     "id": "metaverseindustriesllc.plotly",
     "name": "Plotly Panel",
     "description": "Render plotly.Plot JSON messages",
