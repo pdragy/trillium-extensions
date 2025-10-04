@@ -189,6 +189,24 @@
     ]
   },
   {
+    "id": "robohase.emergency_stop_extension",
+    "name": "E-Stop Panel",
+    "description": "Provides a simple emergency stop button which will publish a signal to any ROS topic.",
+    "publisher": "NuTech-R",
+    "homepage": "https://github.com/NuTech-R/foxglove-emergency-stop-extension",
+    "readme": "https://raw.githubusercontent.com/NuTech-R/foxglove-emergency-stop-extension/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/NuTech-R/foxglove-emergency-stop-extension/refs/heads/main/CHANGELOG.md",
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "sha256sum": "fec2a05ebfa0b1d465367f18bb298f2880910a975839e1839e07c7d37706a2a4",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/robohase.emergency_stop_extension-0.0.1.foxe",
+    "keywords": [
+      "emergency",
+      "e-stop",
+      "ros"
+    ]
+  },
+  {
     "id": "zalndemeter.gg-display",
     "name": "GG Display Panel",
     "description": "A GG Display for motor sport applications",
