@@ -319,6 +319,24 @@
     ]
   },
   {
+    "id": "kaliatech.foxglove-maplibre",
+    "name": "MapLibre Panel",
+    "description": "Provides a map panel based on MapLibre.",
+    "publisher": "kaliatech",
+    "homepage": "https://github.com/kaliatech/foxglove-maplibre",
+    "readme": "https://raw.githubusercontent.com/kaliatech/foxglove-maplibre/refs/heads/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/kaliatech/foxglove-maplibre/refs/heads/main/CHANGELOG.md",
+    "license": "MIT",
+    "version": "v0.0.1",
+    "sha256sum": "2cf9b4936bec782fd372fe72491d26cbc4afc4f018aa595bedbb8ee0e7d6feb0",
+    "foxe": "https://raw.githubusercontent.com/pdragy/trillium-extensions/refs/heads/main/foxe/kaliatech.foxglove-maplibre-0.0.1.foxe",
+    "keywords": [
+      "gis",
+      "map",
+      "maplibre"
+    ]
+  },
+  {
     "id": "com.matic.MatricDecode",
     "name": "MatricDecode",
     "description": "Extremely fast h.264 decoder based on WebAssembly",
